@@ -34,8 +34,6 @@ Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion f
 
 
 <br />
-<br />
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaisakh-mohanan&show_icons=true&theme=gotham" alt="ysakz" />

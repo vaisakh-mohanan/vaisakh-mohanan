@@ -14,8 +14,6 @@
 Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-
-
   <img align="right" alt="GIF" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/e9b72a68b6c0361875dd9321897f8cc5a4a2e979/code.gif" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
@@ -34,6 +32,9 @@ Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion f
 <code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual-Studio-Logo.png"></code>
 <code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual_Studio_Code_1.35_icon.svg.png"></code>
 
+
+<br />
+<br />
 
 📈 my github stats
 

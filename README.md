@@ -32,7 +32,7 @@ Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual-Studio-Logo.png"></code>
-<code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakmohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
 📈 my github stats

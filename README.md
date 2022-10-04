@@ -16,7 +16,7 @@ Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion f
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/vaisakh-mohanan/ysak/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/vaisakh-mohanan/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 ask me about anything, i am happy to help;
 

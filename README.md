@@ -33,9 +33,8 @@ Hi, i'm Vaisakh, a passionate self-taught full stack web developer. My passion f
 <code><img height="20" src="https://github.com/vaisakh-mohanan/vaisakh-mohanan/blob/b134f9c3fc45b6d1ac6baac4b3ebb6bd1604ba72/Icons/Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 
-<br />
+<br /><br />
 📈 my github stats
-<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaisakh-mohanan&show_icons=true&theme=gotham" alt="ysakz" />
 
 
